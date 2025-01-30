@@ -28,13 +28,13 @@
 	shallow = true
 [submodule "third-party/nvidia-maxine-ar-sdk"]
 	path = third-party/nvidia-maxine-ar-sdk
-	url = https://github.com/NVIDIA/MAXINE-AR-SDK.git
+	url = https://github.com/drhax9908/MAXINE-AR-SDK.git
 	fetchRecurseSubmodules = true
 	ignore = all
 	shallow = true
 [submodule "third-party/nvidia-maxine-vfx-sdk"]
 	path = third-party/nvidia-maxine-vfx-sdk
-	url = https://github.com/NVIDIA/MAXINE-VFX-SDK.git
+	url = https://github.com/drhax9908/MAXINE-VFX-SDK.git
 	fetchRecurseSubmodules = true
 	ignore = all
 	shallow = true
